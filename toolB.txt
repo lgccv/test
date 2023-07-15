@@ -1,2 +1,0 @@
-toolB2
-logB
