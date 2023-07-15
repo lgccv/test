@@ -1,6 +1,6 @@
 common head
 userB
 
-path=B
+path=A
 
 
